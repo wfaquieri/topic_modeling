@@ -2,6 +2,9 @@
 
 ![image](img.png)
 
+---
+
+
 Uma tarefa importante para cientistas de dados é realizar o agrupamento de dados, sem conhecimento prévio. Em NLP, essa tarefa consiste em descobrir os tópicos que estão presentes nos textos da base.
 
 Esse notebook servirá de guia para a execução de uma análise de tópicos completa, usando o algoritmo de LDA e recursos para interpretação dos resultados. Utilizaremos notícias da seção "Mercado" extraídas da Folha de S. Paulo no ano de 2016. 
