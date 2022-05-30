@@ -13,15 +13,19 @@ Utilizaremos notícias da seção "Mercado" extraídas da Folha de S. Paulo no a
 
 As seguintes tarefas serão realizadas:
 
-Download dos dados provenientes do kaggle
-Seleção dos dados relevantes para a nossa análise
-Instalação das principais ferramentas e importação de módulos
-Pré-processamento usando NLTK
-Pré-processamento usando Spacy
-Análise de tópicos usando LDA
-Análise de NER usando Spacy
-Visualização dos tópicos usando tokens e entidades.
+1.Download dos dados provenientes do kaggle
+2.Seleção dos dados relevantes para a nossa análise
+3.Instalação das principais ferramentas e importação de módulos
+4.1 Pré-processamento usando NLTK
+4.2 Pré-processamento usando Spacy
+5.Análise de tópicos usando LDA
+6.Análise de NER usando Spacy
+7.Visualização dos tópicos usando tokens e entidades.
 
 ## Referências
 -SARKAR, Dipanjan. Text Analytics with python. New York, NY, USA:: Apress, 2016.
+
 -ALBRECHT, Jens; RAMACHANDRAN, Sidharth; WINKLER, Christian. Blueprints for Text Analytics Using Python. O'Reilly Media, 2020.
+
+  --- 
+  Visit my [LinkedIn]([https://www.linkedin.com/in/manuelcalcada/](https://www.linkedin.com/in/wfaquieri/) "Stay in touch!")!
