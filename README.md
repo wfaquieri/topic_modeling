@@ -1,6 +1,6 @@
 # Topic Modeling
 
-![image]([https://miro.medium.com/max/1400/1*gTaQgnyNhgLwFKTnOl0DsQ.png](https://storage.googleapis.com/kaggle-datasets-images/3660/5829/a2ad1bc24afe402599fd0c873145d414/dataset-cover.jpg))
+![image](img.png)
 
 Uma tarefa importante para cientistas de dados é realizar o agrupamento de dados, sem conhecimento prévio. Em NLP, essa tarefa consiste em descobrir os tópicos que estão presentes nos textos da base.
 
