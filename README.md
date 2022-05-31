@@ -4,7 +4,19 @@
 
 Esse notebook servirá de guia para a execução de uma análise de tópicos completa, usando o algoritmo de LDA e recursos para interpretação dos resultados.
 
-## Introdução
+## Sumário
+1. [Introdução](#introduction)
+2. [Dataset](#dataset)
+3. [Download dos dados do kaggle](#download-dos-dados-do-kaggle)
+4. [Seleção dos dados relevantes para a análise](#Seleção-dos-dados-relevantes-para-a-análise)
+5. Instalação das principais ferramentas e importação de módulos
+6. Pré-processamento usando NLTK
+7. Pré-processamento usando Spacy
+8.Análise de tópicos usando LDA
+9.Análise de NER usando Spacy
+10.Visualização dos tópicos usando tokens e entidades.
+
+## [Introdução](#introduction)
 
 Uma tarefa importante para cientistas de dados é realizar o agrupamento de dados, sem conhecimento prévio. Ao trabalhar com um grande número de documentos, uma das primeiras perguntas que você responder fazer sem precisar ler todos eles é “do que eles estão falando?” Você está interessado nos tópicos gerais dos documentos, ou seja, quais palavras (idealmente semânticas) são frequentemente utilizadas juntas. A modelagem de tópicos busca resolver esse problema utilizando técnicas estatísticas. Cada tópico possui uma distribuição de probabilidades de features (palavras, n-grams, etc). A modelagem de tópicos é conhecida há muito tempo e ganhou imensa popularidade nas últimas duas décadas, principalmente, com a publicação do trabalho seminal do cientista da computação David Blei, em 2003, onde ele descreve o Latent dirichlet allocation (LDA). Nesse trabalho, vamos focar no LDA, um método estocástico para descobrir tópicos, que permite muitas modificações. 
 
