@@ -42,7 +42,7 @@ files.upload()
 !mv .kaggle /root/
 !kaggle datasets download --force -d marlesson/news-of-the-site-folhauol
 
-#Criar o DataFrame com os dados lidos diretamente da plataforma Kaggle
+# Crie o DataFrame com os dados lidos diretamente da plataforma Kaggle
 import pandas as pd
 from tqdm.auto import tqdm
 tqdm.pandas()
